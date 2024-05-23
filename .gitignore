@@ -1,0 +1,4 @@
+#will contain .env file mongodb username password and secure keys which we dont want to uplaod in git hub amd so i will put this file in gitignore and it wont be upload.
+#will also contain node_modules, as no need to uplaod modules to github
+node_modules/
+.env
